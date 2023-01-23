@@ -27,4 +27,4 @@ Get in touch with me:
 <br>
 <br>
 <br>
-[![Ricardo_Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFerreira19)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricardo_Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFerreira19)](https://github.com/RicardoFerreira19/github-readme-stats)
