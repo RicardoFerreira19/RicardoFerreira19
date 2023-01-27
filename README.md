@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-Hello! My name is Ricardo
-I'm 19 years old
+Hello! My name is Ricardo.
+<br>
+I'm 19 years old.
+<br>
 I'm from Rio de Janeiro, Brazil.
+<br>
 <br>
 <br>
 Recently I'm studying some technologies with:
